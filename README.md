@@ -80,6 +80,8 @@ Inside your WordPress admin, go to **Posts** and start adding new posts:
 
 ![New post](./docs/new-post.png)
 
+https://smartseller.com.br
+
 When you’re done, make sure to **Publish** the posts.
 
 > **Note:** Only **published** posts and public fields will be rendered by the app unless [Preview Mode](https://nextjs.org/docs/advanced-features/preview-mode) is enabled.
@@ -104,6 +106,7 @@ WORDPRESS_API_URL=...
 # WORDPRESS_PREVIEW_SECRET=
 ```
 
+
 ### Step 4. Run Next.js in development mode
 
 ```bash
@@ -115,6 +118,7 @@ npm run dev
 yarn install
 yarn dev
 ```
+https://smartseller.com.br
 
 Your blog should be up and running on [http://localhost:3000](http://localhost:3000)! If it doesn't work, post on [GitHub discussions](https://github.com/vercel/next.js/discussions).
 
